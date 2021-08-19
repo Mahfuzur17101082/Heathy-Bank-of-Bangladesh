@@ -1,2 +1,2 @@
-# HeathBankPrediction
-Predicting the heath bank of Bangladesh based of year annual report data using Machine Learning algorithms.
+# Healthy Banks Prediction in Bangladesh using Machine Learning
+Predicting behavior and profits of Bangladeshi private banks by taking data from their previous year reports using different machine learning algorithms.
